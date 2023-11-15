@@ -1,0 +1,14 @@
+C:\Users\wbnog\Cursos DIO\Bootcamp WEX Desenv NET e QA\celular_com_poo\bin\Debug\net7.0\celular_com_poo.exe
+C:\Users\wbnog\Cursos DIO\Bootcamp WEX Desenv NET e QA\celular_com_poo\bin\Debug\net7.0\celular_com_poo.deps.json
+C:\Users\wbnog\Cursos DIO\Bootcamp WEX Desenv NET e QA\celular_com_poo\bin\Debug\net7.0\celular_com_poo.runtimeconfig.json
+C:\Users\wbnog\Cursos DIO\Bootcamp WEX Desenv NET e QA\celular_com_poo\bin\Debug\net7.0\celular_com_poo.dll
+C:\Users\wbnog\Cursos DIO\Bootcamp WEX Desenv NET e QA\celular_com_poo\bin\Debug\net7.0\celular_com_poo.pdb
+C:\Users\wbnog\Cursos DIO\Bootcamp WEX Desenv NET e QA\celular_com_poo\obj\Debug\net7.0\celular_com_poo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wbnog\Cursos DIO\Bootcamp WEX Desenv NET e QA\celular_com_poo\obj\Debug\net7.0\celular_com_poo.AssemblyInfoInputs.cache
+C:\Users\wbnog\Cursos DIO\Bootcamp WEX Desenv NET e QA\celular_com_poo\obj\Debug\net7.0\celular_com_poo.AssemblyInfo.cs
+C:\Users\wbnog\Cursos DIO\Bootcamp WEX Desenv NET e QA\celular_com_poo\obj\Debug\net7.0\celular_com_poo.csproj.CoreCompileInputs.cache
+C:\Users\wbnog\Cursos DIO\Bootcamp WEX Desenv NET e QA\celular_com_poo\obj\Debug\net7.0\celular_com_poo.dll
+C:\Users\wbnog\Cursos DIO\Bootcamp WEX Desenv NET e QA\celular_com_poo\obj\Debug\net7.0\refint\celular_com_poo.dll
+C:\Users\wbnog\Cursos DIO\Bootcamp WEX Desenv NET e QA\celular_com_poo\obj\Debug\net7.0\celular_com_poo.pdb
+C:\Users\wbnog\Cursos DIO\Bootcamp WEX Desenv NET e QA\celular_com_poo\obj\Debug\net7.0\celular_com_poo.genruntimeconfig.cache
+C:\Users\wbnog\Cursos DIO\Bootcamp WEX Desenv NET e QA\celular_com_poo\obj\Debug\net7.0\ref\celular_com_poo.dll
