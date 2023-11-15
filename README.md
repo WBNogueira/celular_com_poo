@@ -11,7 +11,7 @@ Você é responsável por modelar um sistema que trabalha com celulares. Para is
 Você precisa criar um sistema em .NET, do tipo console, mapeando uma classe abstrata e classes específicas para dois tipos de celulares: Nokia e iPhone. 
 Você deve criar as suas classes de acordo com o diagrama abaixo:
 
-![Diagrama classes](Imagens/diagrama.png)
+![Diagrama classes](imagens/diagrama.png)
 
 ## Regras e validações
 1. A classe **Smartphone** deve ser abstrata, não permitindo instanciar e servindo apenas como modelo.
